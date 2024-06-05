@@ -27,11 +27,11 @@ import ast
 
 
 
-llm, main_concept = init_cli_tool()
+llm, main_concept = init_cli_tool(True)
 llm_inputs = LLMInputs(main_concept)
 
 
-input('stop')
+
 
 #load env vars
 load_dotenv()
