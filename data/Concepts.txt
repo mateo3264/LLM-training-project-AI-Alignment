@@ -1,0 +1,704 @@
+Perspectives on Behavior Science
+https://doi.org/10.1007/s40614-018-00188-6
+
+Tutorial: Understanding Concepts: Implications for Behavior
+Analysts and Educators
+T. V. Joe Layng 1
+# Association for Behavior Analysis International 2018
+
+Abstract
+How we make sense of the world is founded on our understanding of simple and
+complex concepts, which form the basis for our vocabulary (Layng, 2016a). We often
+gain this understanding through life experience, but conceptual learning can be explicitly taught. This tutorial provides a brief introduction to concept learning and teaching
+that has its roots in behavior analysis and related disciplines (Bruner, Goodnow, &
+Austin, 1956; Englemann & Carnine, 1982; Markle & Tiemann, 1969; Mechner, 1962;
+Tiemann & Markle, 1990). Presented here are examples drawn from a sequence
+designed to teach physical science to elementary school learners to illustrate how
+concept teaching can be used to improve instruction. These examples include both
+intradimensional concept teaching, where features of a physical stimulus guide behavior, and interdimensional concept teaching, where relations among different stimuli
+guide behavior (Bruner, Goodnow, & Austin, 1956; Layng, 2014; Tiemann & Markle,
+1990). Efficiencies in teaching using conceptual inheritance designs is briefly described, as well as the implications of what are referred to as conceptual hierarchies,
+where instances of one concept may share features inherited from a superordinate
+concepts. The purpose here is not to perform a literature review, but to provide an
+overview of how concept analysis and teaching may improve instruction.
+Keywords Concept . Abstract tact . Intradimensional . Interdimensional
+
+A person who understands physics behaves like a physicist under the same
+conditions as a physicist. Given a novel slice of reality, he sees it as a physicist
+would and takes the same actions as a physicist would. Some part of the action
+
+* T. V. Joe Layng
+layng@comcast.net
+
+1
+
+Generategy, LLC, 4705 South Dakota Street, Seattle, WA 98118, USA
+
+Perspectives on Behavior Science
+
+may be verbalizing—naming or giving a formula, or such. But the understanding
+shown by this verbal repertoire is a strong function of the situation in which it
+occurs. Rarely in the physicist’s world is this situation a verbal stimulus, such as
+“Define subatomic particle.” Given a complex mixture of manipulations, machinery and observations, the key response is deciding whether or not the
+observed slice of reality is a member of the class which leads him to say
+“subatomic particle,” or to flick a particular switch, or to take any other action
+relevant to subatomic particles.
+Each subject matter is a way of looking at reality in terms of certain classes
+(concepts) and hierarchies of classes (conceptual structures) and stated relations
+between classes (principles). . . .
+Markle and Tiemann (1970)
+Few among us would deny the critical role concept learning plays in teaching and
+learning. We are likely to agree on its importance to learning any subject matter. For
+example, positive reinforcement, negative reinforcement, punishment, frequency,
+schedule, discrete trial, free operant, echoic, mand, rate, latency, behavioral contrast
+are all concepts found on the BCBA task list. If asked, most instructors would say that
+they teach concepts, whether their learners are children on the autism spectrum or
+seated in a college classroom. Yet as behavior analysts, scientists, or educators of any
+kind, do we actually teach concepts? And if we attempt to do so, do we teach them
+effectively? To answer these questions, first, let’s define what is meant by concept.
+
+What is a Concept?
+Many years of learning sciences research involving hundreds of studies across several
+disciplines have come to consensus on what applied learning scientists mean when they
+use the word “concept,” namely, a concept is defined by a set of common attributes1
+found in each example of the concept. That is, each example must have certain
+attributes to be considered an instance or example of the concept. In addition to these
+must have attributes, the examples have other can have attributes, which other examples of the concept may or may not have2 (Bruner, Goodnow, & Austin, 1956;
+Engelmann & Carnine, 1982, 2016; Layng, Sota, & Leon, 2011; Markle & Tiemann,
+1969; Mechner, 1962; Merrill, Tennyson, & Posey, 1992; Sota, Leon, & Layng, 2011;
+Tiemann & Markle, 1990).
+Consider the concept, cup, it has two must have attributes, 1) bowl-shaped object, 2)
+used for drinking. However, cups may differ in size, shape, color, material, weight, and
+may or may not have a handle. These are the can have attributes. Change the shape (a
+critical attribute) and one has a (drinking) glass. Change the function (drinking) and one
+has something else, e.g., a pencil holder. Change the color, size, material, etc. while
+leaving the must have attributes unchanged, and one still has a cup. The shared must
+have attributes are what define that object or instance as an example of a concept and do
+1
+
+What we refer to here as attributes have been referred to by others using the terms features or properties. The
+term attribute will be used here, but should be considered to be synonymous with the others.
+2
+Thanks to Sara Pendergast for suggesting the “must have,” “can have” terminology.
+
+Perspectives on Behavior Science
+
+not change from example to example. The other nondefining attributes are those
+features the example can have, often changing from example to example, but that don’t
+enter into defining the example as an instance of the concept.3 This definition corresponds
+with Skinner’s (1957) discussion of the abstract tact. A tact is a verbal response under the
+control of a nonverbal stimulus where there is no point-to-point correspondence between the
+stimulus and the response. “Abstract tacts are those tacts that are under the control of
+properties of a stimulus rather than the entire stimulus itself. . .” (Robbins, Layng, & Karp,
+1995). Thus, “abstract tact” (Robbins et al., 1995) could be substituted for “concept,” but for
+clarity of presentation and correspondence to the cited literature, “concept” will be used.
+Unfortunately, few, if any, textbooks (including those in the field of behavior
+analysis), digital interactive texts, online educational movies and activities, interactive
+whiteboard lessons, or computer programs available today effectively teach concepts
+(cf. Markle, 1975). Thus, the purpose here is not to perform a review of the literature,
+but to provide a brief overview of effective methods for analyzing and teaching
+concepts, and the benefits for applied behavior analysis and teaching in general.
+Because the author recently helped design a curriculum for teaching science to third
+to fifth graders, examples of the concept analysis process and program sequencing will
+be drawn from that effort. This is done for two reasons: the ready availability of
+examples, and to show that behavior analytic instruction can be applied to any area
+and any age group.
+Teaching science is critically important and can be a challenge. Standards have been
+developed such as described by the Next Generation Science Standards (NGSS, 2013),
+but their adoption has been slow. Teachers who teach science in elementary school may
+not be required to have either majored or minored in a science discipline while in
+college. It is not surprising then that research into science education by the American
+Association for the Advancement of Science (2014) has found that learners often
+emerge from science instruction with troubling misconceptions. How might improved
+instruction eliminate these misconceptions? What does it really mean to teach a science
+or any concept? Can behavior analytic approaches to concept teaching help?
+
+What Does It Mean to Understand a Concept?
+Understanding a concept means that for each concept learned (or taught), the learner is
+guided (after Donahoe & Palmer, 2009) by the critical, must have, attributes of each
+instance of the concept and not the variable, can have, attributes (as previously noted).
+Further, examples that do not have all the defining attributes must be rejected as
+instances of the concept. Thus, concept teaching requires that each concept be thoroughly analyzed and the critical attributes of each instance identified. The set of
+variable attributes are also described, so that they do not get erroneously paired with
+the examples used in instruction. Further, these nondefining features need to be
+systematically varied so that learners will have experience responding to the critical
+(defining) features across a full range of divergent, different-looking instances. Learners
+3
+
+Technically, this is a conjunctive concept (after Bruner et al., 1956), a class of stimuli, with class membership
+defined by a set of common, unvarying attributes while other attributes vary across instances of the class
+(Tiemann & Markle, 1990).
+
+Perspectives on Behavior Science
+
+are often able to respond correctly to the critical and variable attributes or properties
+without being able to describe them. Being able to state the definition of a concept is
+not required for its understanding.4 On the other hand, stating a definition, an
+intraverbal repertoire (Skinner, 1957), does not necessarily indicate understanding.
+To conclude that learners understand a concept, they must be able to do the
+following:
+&
+&
+&
+
+Distinguish examples of the concept from close-in (very similar) nonexamples that
+lack one or more of the defining critical attributes.
+Identify examples of the concept across a wide range of varying, nondefining
+attributes.
+Demonstrate this with examples and nonexamples not presented during instruction
+or while learning the concept.
+
+Recent emphasis on multiple exemplar teaching, though a step in the right direction,
+may fall short of actual concept teaching. For example, at a recent conference on
+teaching children with autism, a behavior analyst described a procedure using match-tosample to link the spoken word “fish” to a picture of a fish such that the spoken word
+“fish” occasioned pointing to a fish, and a picture of a fish occasioned saying “fish.”
+Once two-way discriminative (stimulus) control was established, another fish was
+presented and the process repeated. After a few two-way relations were established,
+teaching the one-way relation, hear “fish,” point to fish, resulted in saying “fish” when
+that picture of a fish was presented. The behavior analyst expressed confidence that the
+learner had acquired the meaning of the word fish because the procedure was shown to
+go two ways, a picture of each fish occasioned saying “fish,” and hearing “fish”
+occasioned pointing to picture of each fish. However, no novel fish that had not been
+part of the training and no novel close-in nonexamplars were presented. The other
+nonexamples were animals that were not fish or even aquatic. What would have
+happened if a dolphin or a flatfish that is nearly flat with two eyes on one side of its
+head were presented? No evidence was provided that the many match-to-sample trials
+established more than what Tiemann and Markle (1990) describe as a series of two-way
+paired associates, hearing “fish” then pointing to a picture of a fish, seeing picture of a
+fish then saying “fish.” Even if equivalence responding was established where hearing
+“fish” occasioned pointing to either the picture or the word, concept learning
+(understanding) would still not be demonstrated. No evidence was presented of concept
+learning; the three criteria were not met.
+This has important implications for teaching. Consider the vocabulary difference for
+a child with autism, or a neurotypical child, taught fish in the equivalence manner
+described and one taught fish as a concept. Though both will have saying “fish” in their
+repertoire, use of the word will occur under different circumstances for each. Reading
+or hearing “the fish in the sea,” may have entirely different effects for each. In teaching
+vocabulary to a child, teaching concepts is critically important (see Layng, 2016a, for a
+more extended discussion of this topic).
+
+4
+
+How often has someone asked for the meaning of a word used in a sentence and one struggles to answer
+although the “meaning” of the sentence is crystal clear?
+
+Perspectives on Behavior Science
+
+The Challenge of Concept Teaching
+Much of the time we respond to concepts correctly without being able to state the
+features that are guiding our behavior. Take the concept, chair, for example. If asked to
+locate a chair and bring it into the room, most people can do this with little trouble.
+They don’t bring in desks or bicycles, or even couches. They can do this even if the
+type of chair they find is of a kind they have never encountered. Perhaps they locate a
+chair like the one pictured in Fig. 1. Why can they do it? It is because their behavior is
+guided by the critical attributes that define the concept, chair. The shared properties
+define the class—the concept. Something about the object brought into the room is
+shared with the class of objects we call “chair” and allows us to respond correctly to an
+instance we have never seen before.
+Now ask the same people to define “chair” and one gets a range of definitions. Some
+definitions will be pretty close, others way off, but few will actually describe the
+features that result in something being classified as chair. We see two things in this
+demonstration: 1) our definitions do not necessarily guide our classifications, and 2) we
+are not necessarily aware of what guides our classifications. These are two important
+reasons why good teachers can get bad results. We can teach learners definitions or
+classification rules that are not accurate and that lead to wrong classifications or worse,
+misconceptions. We may “know” the concept, but do not adequately describe
+what is guiding our behavior in such a way as to provide that knowledge to
+our learners. It doesn’t matter if the learners are being directly taught, discovering, working on big problems, etc. Unless we fully understand what we are
+trying to accomplish, creating the right learning environment is difficult and
+becomes a hit-or-miss affair.
+
+How Can Concepts Be Successfully Taught?
+For concept teaching to be successful, we first must identify which critical (must have)
+attributes of each instance or example of the concept are all shared with other instances,
+and what variable (can have) attributes are not shared by each instance. In the case of
+
+Fig. 1 Example of a chair
+
+Perspectives on Behavior Science
+
+Fig. 2 Chairs with a range of variable, can have, attributes
+
+our chair, one instance may have four legs, another none (see Fig. 2). Some may be
+made out of wood, others out of plastic or metal. Some may be black; others may be
+another color. Some may have arms, others may not, and so on. Yet even though there
+is all this variation from instance to instance, we still recognize a chair as a chair.
+How do we find those features shared by all examples? We can begin by comparing
+our chair to instances of other concepts that are very close to our example (see Figs. 3
+and 4). We can compare a chair to a love seat, for example. What is the difference? The
+love seat is designed to have room for two, the chair for only one. A chair seats only
+one person (critical attribute, CA, 1). Are there things that seat one person that are not
+called chairs? We locate a stool that seats someone at the same height as our chair. What
+is the difference? A stool has no back. A chair has a back (CA 2). Are there things
+that have a back and seat only one person that are not called chairs? We find a
+barstool. What’s the difference? When a person is seated on a barstool, the legs
+
+Fig. 3 Nonexamples of chair, each lacking at least one critical, must have, attribute
+
+Perspectives on Behavior Science
+
+Fig. 4 An example juxtaposed with a matched nonexample differing only in one critical attribute
+
+are often left to dangle. When a person is seated on a chair, the legs are
+supported at about a 90-degree angle (CA 3). This critical attribute (CA 3) is
+also missing in a chaise lounge.
+What we find is that when those three critical attributes occur together in an object,
+we call that object a chair, and not a stool, a couch, or a bench. And because we have
+seen these attributes together across a wide range of chairs differing in many other
+features, we won’t be tricked by variations in color or material or number of legs.
+Let’s consider our chair versus love seat example. We can provide an example of a
+chair and juxtapose it with a love seat with matched variable attributes. Notice that the
+two examples in Fig. 4 differ only in the number of people each seats. By
+matching the variable attributes of the example and nonexample, we can make
+it much more likely that the critical attributes will guide the learner’s behavior.
+Compare this to what is likely to happen if, instead, we used the example of
+the love seat depicted in Fig. 5. It is likely that one of the variable attributes
+would be mistaken for a defining feature.
+We can use a concept analysis to design high-quality, guided inquiry-based activities. For example, learners can be asked to form small groups and work together to
+analyze and identify the differences between examples and nonexamples of a concept.
+That is, to “think like a scientist” (Global Partnership for Science Education through
+Engagement, n.d.), even for something as seemingly simple as distinguishing a chair
+from a love seat. Sometimes, however, we may want to add more variability and have
+learners test the attributes against one another over a series of examples and
+nonexamples. Other times we may want to guide the experience a bit more, as learners
+develop their inquiry skills.5 With the concepts analyzed and the variable properties
+identified, we can build highly successful, scaffolded discovery activities that teach
+content and process at the same time. We can make the example and nonexample very
+similar, or “close-in.” For example, telling the difference between the “high chair” and
+“stool” (and acting on that difference) shown in Fig. 6 is a challenge, especially when
+the variable attributes are very similar, and the critical attributes are at the boundaries of
+the range that guides inclusion in the class.
+During assessment or testing, a learner must 1) identify all instances of a concept
+that include all the critical attributes across a precisely specified set of differing
+examples that include a full range of variable attributes and must 2) distinguish
+these from matched nonexamples that do not have the full set of critical attributes.
+Together the specified examples and nonexamples comprise what Tiemann and
+Markle (1990) call a rational set (see below), of which multiple examples are but
+5
+
+For an introduction to a behavior analytic approach to providing learners with an effective inquiry repertoire,
+see Robbins (2011).
+
+Perspectives on Behavior Science
+
+Fig. 5 Nonexample varying in both critical and variable attribute when matched with the example of chair in Fig. 4
+
+one component. Thus, the term “multiple exemplars” is not precise enough to
+capture what is required for teaching and testing concepts.
+As a result of this analysis, we can build more effective applications and creative
+exercises in which learners make full use of the concepts learned. What is more, we can
+leverage this outcome to quickly extend the concepts and build upon them in such a way
+as to provide a basis for quickly adding new concepts and principles with little additional
+teaching, a form of generative learning (Alessi, 1987; Johnson & Layng, 1992, 1994;
+Johnson & Street, 2018; Leon, Ford, Shimizu, Stretz, Thompson, et al., 2011;
+Sota et al., 2011; Sota, 2012).
+
+What Does This Mean for Teaching Concepts?
+As early as 1971, Clark reviewed 235 studies on the analysis and teaching of
+concepts and found that the successful teaching of concepts requires a very specific
+approach. Another early review of the instructional design literature came to a
+similar conclusion (Tennyson & Park, 1980). Each concept needs to be analyzed
+and sets of examples and nonexamples produced that allow for the design of
+sequences that ensure students will learn the concept.6 The analysis will include a
+specification of the critical attributes and the full range of variable attributes. From
+these, nonexamples that lack at least one critical attribute can be specified as well as
+a set of examples that not only share all critical attributes but expose the learner to a
+full range of variable attributes. In the chair example, because there are three critical
+attributes, 1. Has a back; 2. Seats one person; 3. Legs supported bent at an
+approximately 90° angle, the teaching set will require a minimum of three
+nonexamples (each nonexample lacking an attribute). There are many configurations of chair, but if we carefully analyze them we see the variable attributes can be
+categorized as follows
+1. Number of legs may be
+a ) four b) three c) one d) none
+
+6
+
+A similar approach is taken to teaching principles; a principle describes a relation between concepts that can
+typically be stated, “If . . . , then . . . ” (Tiemann & Markle, 1990).
+
+Perspectives on Behavior Science
+
+Fig. 6 Very close-in example and nonexample pair
+
+2. Material may be:
+a) wood b) metal c) plastic d) upholstery
+3. General shape may be:
+a) flat-planed b) curvaceous
+4. Size of back may be:
+a) high b) medium c) low
+By carefully selecting examples with specified variable attributes (for example, a fourlegged, metal, flat-planed, low-back chair) in this case we can present the entire range
+of variable attributes in a rational set of four examples. For chair, this leaves us with a
+minimum set of three nonexamples and four examples. It is called a rational set because
+each item selected meets a specified rationale for inclusion as determined by the critical
+and variable attributes. We can then present examples juxtaposed with nonexamples
+that have matched variable attributes as illustrated above, and at the same time expose
+learners to the full range of examples. A different, but similar rational set of
+nonexamples and examples will be required for testing.
+There are other benefits to this type of concept analysis. Once the concepts are
+analyzed, one can more readily specify an optimal learning environment for acquiring
+the concept. We can target popular misconceptions and prevent them or correct them.
+Given different classes of student errors, we can precisely diagnose and provide the
+specific examples or nonexamples required to ensure full understanding (Tiemann &
+Markle, 1990). For example, if a learner includes items as examples when they are not,
+we need more practice with close-in nonexamples. We can get more precise. If it is
+ascertained that only items with particular variable attributes are erroneously included,
+we know to include those variable attributes in our new nonexamples. Under other
+conditions, if we discover a learner fails to include an item as an example, we will need
+more examples. For example, learners who consistently call a nonexample with only
+two of three required critical attributes of chair—1) furniture that has a back and 2)
+seats one person, but not attribute 3), one’s legs are not supported at about 90°—will
+only need more instruction on nonexamples featuring dangling or reclining legs, e.g., a
+bar stool or chase lounge, not love seats or benches.
+
+Perspectives on Behavior Science
+
+Coordinate Concepts
+We may teach more than one concept at a time, such as the science concepts of solid,
+liquid, and gas, by first presenting the observable differences between these states of
+matter. States of matter can be distinguished by the attributes of shape and volume. For
+the concept solid, the critical attributes are: when placed in an unenclosed container
+there is no change in shape and no change in volume. For the concept liquid, the critical
+attributes are: when placed in an unenclosed container there is a change in shape, but
+there is no change in volume. And for the concept gas, the critical attributes are: when
+placed in an unenclosed container there is a change in shape and there is a change in
+volume. Each of these two attributes, shape and volume, is critical to the definition of
+each state of matter. And because a change in one feature of one concept makes it an
+example of another concept, we teach these at the same time as coordinate concepts.
+Coordinate concepts are defined when each concept shares some critical attributes with
+another concept and an example of one concept is a nonexample of the other.
+Coordinate concepts are typically taught together. We need to juxtapose the coordinate
+concepts so as to highlight the critical attribute differences, while holding the variable
+attributes constant (see Fig. 7). The inquiry about states of matter might begin by asking
+“What happens to the shape if we put this matter in a container?” or “Does the volume
+of this matter change or not change in an unenclosed container?,” among others.
+The variable attributes are many. For solids, these would include objects that are
+hard and soft (e.g., an anvil and a pillow), inorganic and organic, alive and dead, on the
+ground or in the air, etc. The range would be similarly described for liquids and gasses.
+Learners would be asked to identify examples of each and, in so doing, correctly reject
+the coordinate nonexample as shown in the practice exercise in Fig. 8.
+Sequenced correctly (see Engelmann & Carnine, 2016; Markle, 1991; Tiemann &
+Markle, 1990), a young learner will come to identify new examples of solids, liquids,
+and gasses not encountered during instruction, no matter what they are or where they
+are found. Once these concepts are learned, we can, as shown in Fig. 9, add another
+defining feature at the molecular level. That is, why do these states of matter have these
+properties? We can now link the movement of the atoms and molecules to a single
+example of each (solid: atoms vibrate in place, not much movement; liquid: more
+movement, atoms slip past each other; gas: rapid movement, with atoms moving away
+from each other).
+
+Fig. 7 A still from an animated video where variable attributes are held constant, critical attributes are
+changed. Discrimination can only occur along the dimensions of the critical attributes. From Learning A-Z,
+Headsprout Science physical science lessons
+
+Perspectives on Behavior Science
+
+Fig. 8 Examples of liquids, solids, and gases. Learners match the words sold, liquid, or gas to the pictures
+representing each. From Learning A-Z, Headsprout Science physical science lessons
+
+As a result of the earlier concept teaching, we need only have the learner match the
+molecular movement depicted to appropriate state of matter in only one or two
+examples (see Fig. 10), in order to have them link molecular movement to states of
+matter. This is accomplished not by pairing the molecular movement with “arbitrary
+stimuli” (after Sidman, 1994), such as a name to a single stimulus or even a group of
+stimuli, but by pairing the movement with the already learned critical attributes guiding
+behavior (and not the variable attributes). We find that the learner can often go on to
+match those molecular movements to the entire range of solid, liquid, and gas examples, including examples never before presented with no further instruction—an example of simple generative learning (for a more detailed discussion, see Alessi, 1987;
+Leon, Ford, et al., 2011; also see Johnson & Street, 2018, for other examples of
+generative relations).
+
+Fig. 9 Animated molecular representations are paired with examples of liquids, solids, and gases. From
+Learning A-Z, Headsprout Science physical science lessons
+
+Perspectives on Behavior Science
+
+Fig. 10 Learners match animated molecular representations to examples of liquids, solids, and gases
+containing a range of variable attributes. From Learning A-Z, Headsprout Science physical science lessons
+
+We can next look at what it takes to change the motion of atoms (heat and pressure),
+and thereby change one state of matter into another. As shown in Fig. 11, we can even
+provide rather sophisticated simulated experiments that learners can conduct to solve
+problems involving changing states of matter based on these attributes. And just as
+before, by linking the changes caused by heat and pressure to molecular movement, we
+will find that learners will link them to observed states of matter, with little or no direct
+teaching required—one more example of generative learning.
+Learners can now be presented with interesting thought questions about real world
+events that may occur around the house, such as, “Why can one “pour” a glass of
+orange juice?” thereby increasing the likelihood of science-oriented discussions around
+the dinner table or elsewhere (see Fig. 12). In this way, these young learners are
+encouraged to extend their knowledge in ways in which their families and peers will
+notice.
+
+Fig. 11 Example of interactive experiments involving the application of concepts taught. From Headsprout
+Science physical science lessons, used with permission
+
+Perspectives on Behavior Science
+Fig. 12 Learners are asked, “Why
+can we pour juice from a cup?
+They derive the answer from what
+they learned from the concept
+teaching sequence. From Learning
+A-Z, Headsprout Science physical
+science lessons
+
+Beyond the Single Stimulus
+The discussion has focused on concepts where the attributes are part of a single
+stimulus, such as chair or solid. Layng (2014) used the terms intradimensional concept
+to describe those stimuli where a single stimulus, such as a chair occasions behavior,
+and interdimensional concepts (or tacts), such as distant, believe, or opposite, where
+specifiable, invariant comparative attributes guide responding.
+An interdimensional tact is one in which a contingency specifies the criterion for
+responding to one stimulus in comparison with another. An example is “larger
+than.” Bruner et al. (1956) defined this type of responding as a relational concept.
+Other examples of interdimensional tacts include me, you, they, our, farther,
+distant, wider, etc. These can be quite “abstract” (as per “believes” vs. “does
+not believe” vs. “knows”). There is no single (intradimensional) stimulus where
+the properties can be pointed to, but when a group of stimuli are considered the
+tact can occur. (Layng, 2016a, p. 343)
+A characteristic of interdimensional concepts is that the stimuli being compared
+themselves typically belong to the class of variable attributes (see Layng’s, 2016a
+discussion of distant and near). Much like the failure of many to define a chair even
+though they can successfully discriminate chairs from nonchairs, the guiding critical
+interdimensional attributes often go unstated. Because the physical stimuli may change,
+it may lead to assumptions that there are no critical attributes guiding a learner’s
+behavior. In fact, most such interdimensional relations can be analyzed, the guiding
+critical attributes specified, and concept teaching sequences prescribed. An example
+concept analysis is provided by Leon, Ford, et al. (2011) of the concept, “to believe.”
+Who or what believes varies greatly, and it is not a physical feature of the believer. Let’s
+examine some examples of believe. I open the cupboard door, and the hungry dog runs
+to the empty food bowl. The dog believes it will be fed. The firefighters note everyone
+who lives in a burning building is not accounted for; they run inside to search. They
+believe someone may still be in the building. I don’t quite feel right. I believe I may be
+coming down with a cold. I put the key in the ignition and the car does not immediately
+start, so I keep turning the key. I believe if I turn the key the car will start. What are
+some similar situations that do not show one believes? The firefighters see a person in
+
+Perspectives on Behavior Science
+
+the building and run into the building to search for them. They know someone is in the
+building. The cupboard door is opened, and the hungry dog remains where it is (it does
+not run to the empty bowl). The dog does not believe it will be fed. What we see from
+comparing the use of believe to similar instances involving knowing and not believing,
+is that a change in single aspect of the event (a critical attribute) changes our response to
+the event. To say one believes, there must be 1) the absence of an event, and 2) action
+taken to affirm the likelihood of the event. If an event is present, such as people seen in
+the building, we know there is someone there. If we open the cupboard door and the
+dog remains, no affirming action is taken: the dog does not believe it will be fed.
+A rational set of examples and nonexamples can be sequenced to quickly teach what
+it means to believe.7 The variable attributes include time frame (past, present, future),
+type of event, who takes action (the believer or someone else), type of action, or
+conditions that suggest the event. Who is doing the believing and what is believed are
+also variable attributes. It is important to note that the same concept analysis and
+teaching procedures may be used for teaching both the intradimensional concept of
+chair, and the interdimensional concept of believe. This suggests that what may be
+considered as too abstract for developmentally delayed children to learn may be
+systematically analyzed and taught. Other interdimensional concepts that may be
+similarly analyzed and taught include you, me, them, now, then, same, different,
+opposite, distant, and near.
+These interdimensional concepts often play important roles in extending our repertoires
+and can allow more advanced forms of understanding. For example, once believe is
+taught, we can insert it into a sentence to say X believes that Y will. . . . Our reader or
+listener who may know nothing about X and Y will now understand that X will take
+affirming action in regard to something Y has yet to do. Likewise, once the concept,
+opposite, is taught we can say, “X is the opposite of Y.” That one state of the world is at the
+farthest end of a continuum from another is readily communicated. Skinner (1957) refers
+to this arrangement as an autoclitic frame. Many such frames are a function of established
+interdimensional concepts, another form of what Skinner would characterize as abstract
+tacts. Teaching certain essential interdimensional concepts may result in expanding the
+autoclitic frames available for a learner and rapidly expanding the linguistic repertoire of
+the learner creating a form of behavioral cusp (after Rosales-Ruiz & Baer, 1997). In a cusp
+the acquisition of certain repertoires make possible or more likely the acquisition of others.
+By learning the concept “opposite,” a young learner can be simply told something is
+opposite of something else and be able to respond to it accordingly.8
+Once concepts are analyzed, teaching can be made more efficient through the use of
+concept inheritance procedures (Layng et al., 2011; Tiemann & Markle, n.d.). That is a
+7
+
+For a complete example of teaching young children an interdimensional concept, see the 14-step procedure
+for teaching “steeper” provided by Engelmann and Carnine (2016; also see, Layng, 2016a; Layng et al., 2011;
+Leon, Layng, & Sota, 2011b; Sota et al., 2011; Tiemann & Markle, 1990, for a more detailed discussion).
+8
+Further, once the critical and variable properties of various intradimensional and interdimensional concepts
+are described, and because one instance of a concept may be an example of another concept (e.g., cow and
+farm animal), instruction can be created that allows for teaching of what Markle (1978) described as
+conceptual networks. We can create exercises where learners come under the guidance of more than one set
+of features such that features of one are used to describe features of another, Skinner’s (1957) metaphorical
+tact. We can, for example, bring learners into contact with Rutherford’s atomic model where features of a solar
+system are used to describe features of the atom (see Bronowski, 1956, and Goldiamond, 1966, for this and
+other examples) or exquisitely teach children how to write poetry (Koch, 1970).
+
+Perspectives on Behavior Science
+
+Fig. 13 Critical attribute inheritance hierarchy for Contingent Positive Reinforcement. Concept of contingency (Ctgy) is taught as an environmental arrangement whereby a consequence (Csq) will occur only if an
+occasion (Ocn) and behavior (Bhv) occur; the occasion and behavior can occur without consequence
+occurrence. Next, only one new defining attribute is provided to teach reinforcement contingency by adding
+the attribute that the probability of the occurrence of the occasion and behavior is greater when measured at a
+later time than when initially measured. And finally, positive reinforcement contingency is taught by adding
+the single attribute of those conditions under which the consequence is added
+
+hierarchy of concepts can be created where subordinate concepts inherit the critical
+attributes of its superordinate concept. For example, once the concept, polygon, is
+taught, (CA 1—straight sides, CA 2—joined end to end [forming a closed figure]) one
+has simply to say: a polygon with four sides, and one has specified the critical attributes
+of quadrilateral (Tiemann & Markle, n.d.). Once the concept “polygon,” has been
+learned, one has simply to add the new defining attribute (four sides) to teach the
+concept “quadrilateral.” To teach “triangle” one simply has to say a polygon with three
+sides. Further, how many learners define a triangle as triangle only when it sits on its
+base? Because the teaching of polygon required a variation in positioning, that simple
+variation no longer results in this common “misconception.”
+The often challenging-to-teach concept of positive reinforcement contingency can be
+taught using an inheritance procedure. Figure 13 depicts how that concept can be taught
+using an inheritance procedure. One would first teach the concept of contingency. Next,
+teach the concept of reinforcement contingency by adding the attribute: those contingencies
+involving occasions, behavior, and consequences where the probability of the occasion–
+behavior relation at time t+n is greater than at time t. Notice that the learner only has to learn
+one new defining attribute, Finally, teach positive reinforcement contingency by adding the
+attribute: given a reinforcement contingency, those consequences where an event is added.
+
+What We Can Do
+The addition of a careful concept analysis may improve everyday teaching and
+learning. That is, educators who analyze key concepts may find learners less confused
+
+Perspectives on Behavior Science
+
+Fig. 14 Example concept analysis from Tiemann and Markle (1990) showing a completed concept analysis
+for the concept, bacteria. Complete teaching and testing rational sets are depicted. Each letter indicates which
+instance of each variable attribute is included in each example so as to produce the greatest range of examples
+in the fewest number of examples. Used with permission
+
+and learning progressing more rapidly. Teachers can carefully juxtapose examples and
+nonexamples and point out how the presence of variable attributes do not influence
+inclusion into a class. On the other hand, the absence of a single critical attribute
+eliminates the instance from the class even though the nonexample may have many
+other features in common with the class. Figure 14 illustrates this using a completed
+concept analysis of bacteria, along with the rational teaching and testing sets (from
+Tiemann & Markle, 1990). Notice how the variable attributes are organized so as to
+present almost the entire range of critical attributes within a relatively small set of
+bacteria examples. The testing set determines if learners have mastered the concept or if
+more instruction is required. By carefully analyzing concepts and creating rational sets
+of examples and nonexamples, instruction that includes exposure to a full range of
+examples can be efficiently as well as effectively designed (see Tiemann & Markle,
+1990, for a comprehensive self-instruction program on how to analyze and teach
+concepts).9
+
+9
+
+The program is available through Morningside Press, Seattle, WA.
+
+Perspectives on Behavior Science
+
+Interactive lessons that focus on exploration, problem solving, and inquiry
+can be developed to make it likely that nearly all learners will come to “really
+understand” the concepts. We want learners to explore, ask questions, change
+variables, and discover the concepts (and principles) we think are important, so
+they become thoughtful great thinkers. Problem-based exercises may be developed where examples and nonexamples can be identified by learners in groups
+or independently, with inquiry exercises, as projects, by using response clickers,
+etc.
+Often, interactive activities are designed that may engage students but produce little real learning or understanding, and little real concept learning. With
+the concepts fully analyzed we can avoid meaningless engagement, and design
+more effective, personalized instruction (Layng, 2016b; Layng & Twyman,
+2013). Where a full analysis and sequence may not be possible to produce,
+the inclusion of a broader range of examples and a limited set of nonexamples
+may improve learning.
+For those providing commercial learning activities for the classroom, the
+instructional design requirements should be met with rigor. Texts, digital
+exercises, and applications that claim to teach concepts should be required
+to provide fully analyzed concepts, and a full range of teaching and testing
+sets of examples and nonexamples. Stated differently, educators who are
+interested in having their learners “really understand” concepts should insist
+that those companies and organizations providing interactive learning activities
+for use in the classroom meet the highest standards of concept analysis and
+sequencing.
+If the time is taken to fully analyze the concepts taught and sequence the learning
+activities based upon that analysis, those in the business of designing learning activities
+for the classroom can provide teachers and learners with a broad array of effective and
+essential science, engineering, technology, art, and literary applications. Behavior
+scientists, behavior analysts, and educators designing materials or applications can lead
+in this effort, and by their example help ensure that learners “really understand” the
+concepts they are taught.
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+
+References
+Alessi, G. (1987). Generative strategies and teaching for generalization. Analysis of Verbal Behavior, 5, 15–27.
+American Association for the Advancement of Science. (2014, February). Project 2061: Some things middle
+and high school students know and misconceptions they hold. Retrieved February 2014, from
+http://www.project2061.org/research/assessment/MiddleHighMisconceptions.htm.
+Bronowski, J. (1956). Science and human values. New York, NY: Harper & Row.
+Bruner, J., Goodnow, J., & Austin, G. (1956). A study of thinking. New Brunswick, NJ: Transaction.
+Clark, D. C. (1971). Teaching concepts in the classroom: A set of teaching prescriptions derived from
+experimental research. Journal of Educational Psychology Monograph, 62, 253–278.
+Donahoe, J. W., & Palmer, D. C. (2009). Learning and complex behavior. Richmond, MA: Ledgetop.
+(Original work published 1994).
+
+Perspectives on Behavior Science
+Engelmann, S., & Carnine, D. (1982). Theory of instruction: Principles and applications. New York, NY:
+Irvington.
+Engelmann, S., & Carnine, D. (2016). Theory of instruction: Principles and applications (rev. ed.). Eugene,
+OR: NIFD Press.
+Global Partnership for Science Education through Engagement (n.d.). Think like a scientist. Retrieved August
+2018, from https://tls.scienceathome.org
+Goldiamond, I. (1966). Perception, language, and conceptualization rules. In B. Kleinmuntz (Ed.), Problem
+solving (pp. 183–224). New York, NY: Wiley.
+Johnson, K., & Street, E. M. (2018). Generative responding through contingency adduction. In R.-A. Rehfeldt,
+J. Tarbox, M. Fryling, & L. Hayes (Eds.), Applied behavior analysis of language and cognition. Oakland,
+CA: New Harbinger.
+Johnson, K. R., & Layng, T. V. J. (1992). Breaking the structuralist barrier: Literacy and numeracy with
+fluency. American Psychologist., 47, 1475–1490.
+Johnson, K. R., & Layng, T. V. J. (1994). The morningside model of generative instruction. In R.
+Gardner III, D. M. Sainato, J. O. Cooper, T. E. Heron, W. L. Heward, & J. W. Eshleman
+(Eds.), Behavior analysis in education: Focus on measurably superior instruction. Pacific
+Grove, CA: Brooks/Cole.
+Koch, K. (1970). Wishes, lies, and dreams: Teaching children to write poetry. New York, NY:
+HarperCollins.
+Layng, T. V. J. (2014). Learning science design and development requirements: An update of Hendrix and
+Tiemann’s “Designs for designers.”. Mexican Journal of Behavior Analysis, 40, 39–57.
+Layng, T. V. J. (2016a). Thirty million words––and even more functional relations: A review of Suskind’s
+Thirty million words. The Behavior Analyst, 39, 339–350.
+Layng, T. V. J. (2016b). Converging qualities of personal competencies. In M. Murphy, S. Redding, & J.
+Twyman (Eds.), Handbook on personalized learning for states, districts, and schools (pp. 19–
+36). Philadelphia, PA: Temple University, Center on Innovations in Learning. Retrieved from
+www.centeril.org/2016Handbook/resources/Layng_chapter_web.pdf. Accessed Nov 2018.
+Layng, T. V. J., Sota, M., & Leon, M. (2011). Thinking through text comprehension I: Foundation and guiding
+relations. The Behavior Analyst Today, 12, 1–10.
+Layng, T. V. J., & Twyman, J. S. (2013). Education + technology + innovation = learning? In Handbook on
+innovations in learning. Philadelphia, PA: Center for Innovation in Learning.
+Leon, M., Ford, V., Shimizu, H., Stretz, A., Thompson, J., Sota, M., Twyman, J. S., & Layng, T. V. J. (2011).
+Comprehension by design: Teaching young learners to comprehend what they read. Performance
+Improvement Journal, 50, 40–47.
+Leon, M., Layng, T. V. J., & Sota, M. (2011). Thinking through text comprehension III: The programing of
+verbal and investigative repertoires. The Behavior Analyst Today, 12, 11–20.
+Markle, S. M. (1975). They teach concepts, don’t they? Educational Researcher, 4, 3–9.
+Markle, S. M. (1978, February). Teaching conceptual networks. NSPI Journal, 17(1), 4–7.
+Markle, S. M. (1991). Designs for instructional designers. Seattle, WA: Morningside Press.
+Markle, S. M., & Tiemann, P. W. (1969). Really understanding concepts: Or in frumious pursuit of the
+Jabberwock. (Slide/Tape instructional program) Chicago, IL: Tiemann Associates.
+Markle, S. M., & Tiemann, P. W. (1970). “Behavioral” analysis of “cognitive” content. Educational
+Technology, 10, 41–45.
+Mechner, F. (1962). Behavioral analysis for programmers. The Mechner Foundation. Retrieved June 2014, from
+http://mechnerfoundation.org/wp-content/uploads/2014/05/Behavioral-Analysis-for-Programmers.pdf
+Merrill, M. D., Tennyson, R. D., & Posey, L. O. (1992). Teaching concepts: An instructional design guide.
+(2nd ed.). Englewood Cliffs, NJ: Educational Technology Publications.
+Next Generation Science Standards. (2013). Final next generation science standards. Retrieved October 2018,
+from https://www.nextgenscience.org/news/final-next-generation-science-standards-released
+Robbins, J. K. (2011). Problem solving, reasoning, and analytical thinking in a classroom environment. The
+Behavior Analyst Today, 12, 40–47.
+Robbins, J. K., Layng, T. V. J., & Karp, H. J. (1995). Ambiguity and the abstract tact: A signal detection
+analysis. Analysis of Verbal Behavior, 12, 1–11.
+Rosales-Ruiz, J., & Baer, D. (1997). Behavioral cusps: A developmental and pragmatic concept for behavior
+analysis. Journal of Applied Behavior Analysis, 30, 533–554.
+Sidman, M. (1994). Equivalence relations and behavior: A research story. Boston, MA: Authors Cooperative.
+Skinner, B. F. (1957). Verbal behavior. Englewood Cliffs, NJ: Prentice Hall.
+
+Perspectives on Behavior Science
+Sota, M. (2012). The effect of contrasting analogies on understanding of and reasoning about natural selection.
+Poster presentation, the 38th Annual Conference of the Association for Behavior Analysis International,
+Seattle, WA, May 25–29.
+Sota, M., Leon, M., & Layng, T. V. J. (2011). Thinking through text comprehension II: Analysis of verbal and
+investigative repertoires. The Behavior Analyst Today, 12, 21–33.
+Tennyson, R. D., & Park, O. (1980). The teaching of concepts: A review of the instructional design literature.
+Review of Educational Research, 50(1), 55–70.
+Tiemann, P. W., & Markle, S. M. (1990). Analyzing instructional content: A guide to instruction and
+evaluation. Seattle, WA: Morningside Press.
+Tiemann, P. W., & Markle, S. M. (n.d.) On beyond the single concept. (Unpublished ms.).
+
+
