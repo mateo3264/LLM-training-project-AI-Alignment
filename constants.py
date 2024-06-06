@@ -26,14 +26,7 @@ class LLMInputs:
     
         return multiquery_list
     
-MHA_INPUT = 'Based on the analysis of the behavioral analyst T.V. Layng find the defining characteristics/parts/steps (Must Have Attributes) of the concept {main_concept}'
-MANUAL_MULTIQUERY = [
-        "How to teach a concept based on T.V. Layng's analysis", 
-        'What are the defining characteristics of the concept of {main_concept}',
-        'What are the examples T.V. Layng gives to find the defining characteristics',
-        'What are the defining and variable characteristics of chairs, belief, bacteria, solid, liquid, gas?',
-        'What is a rational set?'
-        ]
+
 
 
 
