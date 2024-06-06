@@ -11,3 +11,8 @@
 ## Install python libraries
 
 * Run the command `pip install -r requirements.txt`
+
+# How to use it
+* execute the main file like this: `py main.py "<YOUR_CONCEPT>" -m gpt-4o`
+* The project supports gpt models, anthropic and gemini models.
+* Note: For now the project only uses the files in the data folder so the concepts to use are limited 
