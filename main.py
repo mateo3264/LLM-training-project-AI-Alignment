@@ -41,55 +41,6 @@ Client()
 
 
 
-#--------------Define the llm--------------
-
-
-
-
-#--------------Set semantic cache-------------- 
-# connection_string = os.environ.get('MONGODB_ATLAS_URI')
-
-# # mongo_client = MongoClient(connection_string)
-# # collection = mongo_client['langchain_test_db']['mongodb_atlas_mateo_test']
-# # # collection.create_index([('llm_string', 'text')])
-# # print(collection.index_information())
-
-# semantic_cache = MongoDBAtlasSemanticCache(
-#     embedding=OpenAIEmbeddings(model='text-embedding-3-small'),
-#     collection_name='mongodb_atlas_mateo_test',
-#     database_name='langchain_test_db',
-#     index_name='mateo_vector_index',
-#     score_threshold=0.99,
-#     connection_string=connection_string
-# )
-
-# set_llm_cache(semantic_cache)
-
-# template = '''Answer the following context about the given context:
-# <context>
-# {context}
-# </context>
-
-# Question: {question}
-# '''
-
-# prompt = ChatPromptTemplate.from_template(template)
-
-# semantic_chain = prompt | llm
-
-# with get_openai_callback() as c:
-#     initial_time = time.perf_counter()
-#     semantic_chain.invoke({'context':'Erick works at langchain', 'question':'where does Erick work?'})
-#     print('Time taken to find the MHAs: ', time.perf_counter() - initial_time)
-#     print(c)
-# with get_openai_callback() as c:
-#     initial_time = time.perf_counter()
-#     semantic_chain.invoke({'context':'Erick works at langchain', 'question':'where does Erick work?'})
-#     print('Time taken to find the MHAs: ', time.perf_counter() - initial_time)
-#     print(c)
-# input('continue with mha?')
-
-
 #--------------Must Have/Can Have Attributes Phase--------------
 concept_mhas_filename = 'concept_mhas.json'
 json_file = open(concept_mhas_filename)
@@ -142,10 +93,10 @@ with get_openai_callback() as c:
     # for concept in concept_examples:
     #    concept_examples[concept] = ast.literal_eval(concept_examples[concept])
 
-    #print(concept_examples)
+    print(concept_examples)
     #print(type(concept_examples))
-    df = pd.DataFrame(concept_examples)
-    df.to_json(concept_examples_filename, orient='records', lines=True)
+    # df = pd.DataFrame(concept_examples)
+    # df.to_json(concept_examples_filename, orient='records', lines=True)
 
     with open(concept_examples_filename, 'w') as file:
 
