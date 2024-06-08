@@ -6,13 +6,14 @@ from langchain_core.output_parsers import StrOutputParser
 from dotenv import load_dotenv
 from langsmith import Client
 from cli_tool import init_cli_tool
-from constants import *
+from llm_prompts import *
 
 load_dotenv()
 Client()
 
 
-llm, main_concept = init_cli_tool(True)
+#llm, main_concept, format
+arguments = init_cli_tool(True)
 
 # llm_inputs = LLMInputs(main_concept)
 
@@ -23,7 +24,7 @@ llm, main_concept = init_cli_tool(True)
 question = f'''Based on the article of T.V. Layng about teaching concepts 
 find relevant documents of the following concepts. Make sure to get documents from each of the concepts enumerated:
 Concepts:
-{main_concept}
+{arguments[1]}
 '''
 
 print('question')
@@ -47,7 +48,7 @@ Answer:'''
 prompt = ChatPromptTemplate.from_template(template)
 
 
-chain = (prompt | llm | StrOutputParser()).with_config({'run_name':'Finding common and exclusive characteristics between concepts'})
+chain = (prompt | arguments[0] | StrOutputParser()).with_config({'run_name':'Finding common and exclusive characteristics between concepts'})
 
 print(chain.invoke({'context':context}))
 
