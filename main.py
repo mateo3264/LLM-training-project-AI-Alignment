@@ -13,7 +13,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
 from langchain_core.load import loads, dumps
 from langchain_core.runnables import RunnablePassthrough
-from constants import *
+from llm_prompts import *
 from decorators import get_data_from_openai, time_taken
 from operator import itemgetter
 from load_whole_dir import DocsHandler

@@ -1,7 +1,7 @@
 from decorators import get_data_from_openai
 from langchain_core.load import loads, dumps
 from langchain_core.prompts import ChatPromptTemplate
-from constants import *
+from llm_prompts import *
 from load_whole_dir import DocsHandler
 from langchain_core.output_parsers import StrOutputParser
 
